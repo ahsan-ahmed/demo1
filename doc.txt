@@ -1,2 +1,1 @@
-some good notes
 python is beautifull language
